@@ -42,6 +42,7 @@ Honestly? Just milking that sweet, sweet Google compute 🐮
 
 I discovered that using **Gemini Canvas**, you can run advanced code and get free API access—just by signing into a Google account. No backend setup, no billing, no limits (yet). It’s perfect for building shareable apps.  
 And the UI? Don’t like it? Just tell Gemini to fix it. It'll do exactly that.
+Thank you Google! 谷人希！谷人希！
 
 ---
 
