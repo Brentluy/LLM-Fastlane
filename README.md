@@ -1,6 +1,7 @@
 # 🧠 LLM Quiz App: Learn Fast, Remember Forever / LLM 快问快学：学得快，记得牢
 
-**Bilingual presentation, but the same meaning**
+## 🔴 Bilingual Presentation, but the Same Meaning
+
 ---
 
 ## 🧾 Introduction / 项目简介
@@ -99,4 +100,80 @@ This was built with caffeine, determination, and a lot of job rejection emails. 
 > Made with ❤️ by a CMU student who refuses to forget what he once learned.  
 > 一个不想再把学过的东西全忘光的 CMU 学生，用 ❤️ 打造。
 
+---
 # LLM-Fastlane
+
+## 📂 Learning Index / 学习索引目录
+
+---
+
+### 🧠 LLM Theory / LLM 理论
+
+#### 1. Transformer / Transformer 结构
+
+- **Encoder / Decoder 编码器 / 解码器**  
+  [https://g.co/gemini/share/1c48cc3d526c](https://g.co/gemini/share/1c48cc3d526c)
+
+- **Tokenizer 分词器**  
+  [https://g.co/gemini/share/4a09b3e1f570](https://g.co/gemini/share/4a09b3e1f570)
+
+- **Self-Attention and FNN 自注意力机制与前馈神经网络**  
+  [https://gemini.google.com/share/e1984a0269d4](https://gemini.google.com/share/e1984a0269d4)
+
+- **Activation Functions 激活函数**  
+  [https://gemini.google.com/share/aa5a247c51cf](https://gemini.google.com/share/aa5a247c51cf)
+
+- **Normalization and Residual Connections 归一化与残差连接**  
+  [https://g.co/gemini/share/9f3a091ce69e](https://g.co/gemini/share/9f3a091ce69e)
+
+- **Embedding and Positional Embedding 嵌入与位置编码**  
+  [https://gemini.google.com/share/91e2cd5f90ba](https://gemini.google.com/share/91e2cd5f90ba)
+
+
+
+#### 2. Reinforcement Learning from Human Feedback (RLHF) / 人类反馈强化学习
+
+- **Fundamentals 基础概念** *(coming soon)*  
+- **Human Preference Alignment 人类偏好对齐（RLHF）** *(coming soon)*  
+- **Direct Preference Optimization (DPO) / 直接偏好优化** *(coming soon)*  
+- **Policy Optimization 策略优化** *(coming soon)*  
+- **Evaluation and Feedback 评估与反馈**  
+  [https://g.co/gemini/share/80dbdb55f2a5](https://g.co/gemini/share/80dbdb55f2a5)
+
+
+---
+
+### 🧪 LLM Training in Practice / LLM 训练实践
+
+#### 3. Pretraining / 预训练 *(coming soon)*
+
+
+
+#### 4. Fine-Tuning / 模型调参
+
+- **Loss Functions 损失函数** *(coming soon)*  
+- **Tuning Strategies 调参策略** *(coming soon)*  
+- **Regularization, Dropout & Learning Rate 正则化、Dropout 与学习率** *(coming soon)*
+
+
+
+#### 5. Optimization / 模型优化
+
+- **DeepSpeed** *(coming soon)*  
+- **LoRA** *(coming soon)*
+
+
+
+#### 6. Prompt Engineering & RAG / 提示工程与 RAG
+
+- **Prompt Engineering 提示工程** *(coming soon)*  
+- **Retriever-Augmented Generation 检索增强生成（RAG）** *(coming soon)*
+
+
+
+#### 7. Multimodal Learning / 多模态学习
+
+- **Introduction to Multimodal Models 多模态模型基础** *(coming soon)*  
+- **Image-Text Fusion 图文融合方法** *(coming soon)*  
+- **Multimodal Fine-tuning & Evaluation 多模态微调与评估** *(coming soon)*
+
