@@ -60,13 +60,15 @@ That’s why I built this app: a 100% **free**, **open-source**, and **quiz-base
 
 ### 🧪 LLM Training in Practice / LLM 训练实践
 
-#### 3. Pretraining / 预训练 *(coming soon)*
+#### 3. Pretraining / 预训练 
+https://g.co/gemini/share/6cb6dbb0bc4b
 
 
 
 #### 4. Fine-Tuning / 模型调参
 
-- **Loss Functions 损失函数** *(coming soon)*  
+- **Loss Functions 损失函数** 
+https://g.co/gemini/share/d79baba11c6e
 - **Tuning Strategies 调参策略** *(coming soon)*  
 - **Regularization, Dropout & Learning Rate 正则化、Dropout 与学习率** *(coming soon)*
 
